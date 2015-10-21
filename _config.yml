@@ -1,6 +1,6 @@
 name: omm
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.043761204928159714
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.8021268972661346
